@@ -1,0 +1,54 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    border: 5px solid red;
+    display: flex;
+}
+
+
+.inputContainer {
+    width: 50vw;
+    height: 100vh;
+    border: 1px solid green;
+}
+
+.listContainer {
+    width: 50vw;
+    height: 100vh;
+    border: 1px solid #3f3173;
+}
+
+.inputWraper {
+    width: 30%;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input {
+
+}
+
+.addButton {
+    cursor: pointer;
+}
+
+.elemWrapper {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%;
+    margin: 10px auto;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.listWrapper {
+    height: 80vh;
+    overflow: scroll;
+    border: 1px solid red;
+}
+
+.editButton {
+    cursor: pointer;
+}
