@@ -1,4 +1,3 @@
-import './App.css';
 import styles from "./styles/styles.module.css"
 import { InputContainer } from './components/IinputContainer';
 import { ListContainer } from './components/ListContainer';
